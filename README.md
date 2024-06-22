@@ -49,3 +49,4 @@ Conclusion:
 The Hospital Management System effectively addresses the need for a structured and automated approach to managing hospital operations.
 By leveraging Java for the application logic and MySQL for data storage, the system provides a reliable and efficient solution for handling patient, doctor, and appointment information.
 The use of JDBC ensures seamless communication between the application and the database, facilitating smooth data transactions. The inclusion of CRUD operations makes the system highly dynamic and adaptable.
+![Calculator 6_22_2024 5_25_51 PM](https://github.com/AdityaJ19/CODTECH-task2/assets/163170139/bb8f05c3-8324-41a0-9760-7ff30b77fff7)
